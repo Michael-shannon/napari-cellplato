@@ -1,0 +1,10 @@
+name: napari-cellplato
+contributions:
+  commands:
+    - id: napari-cellplato.say_hi
+      title: Say hello, world!
+      python_name: napari_cellplato:show_hello_message
+  widgets:
+    - command: napari-cellplato.say_hi  # note, same as command.id above
+      display_name: Hello World
+      autogenerate: true

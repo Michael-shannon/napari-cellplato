@@ -1,0 +1,11 @@
+site_name: napari-cellplato
+site_description: l plasticity over time
+site_author: MichaelShannon
+
+theme: readthedocs
+
+
+repo_url: https://github.com/Michael-shannon/napari-cellplato
+
+pages:
+- Home: index.md

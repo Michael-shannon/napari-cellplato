@@ -1,0 +1,9 @@
+pyproject.toml
+setup.cfg
+napari_cellplato/__init__.py
+napari_cellplato.egg-info/PKG-INFO
+napari_cellplato.egg-info/SOURCES.txt
+napari_cellplato.egg-info/dependency_links.txt
+napari_cellplato.egg-info/entry_points.txt
+napari_cellplato.egg-info/requires.txt
+napari_cellplato.egg-info/top_level.txt
